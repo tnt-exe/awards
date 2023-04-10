@@ -1,4 +1,5 @@
 # awards
+Here are some of my awards and certificates during my study at FPT University.
 | Certificate | Organization | Earn Date |
 | ----------- | ------------ | --------- |
 |<details><summary>Honorable Student of Semester</summary><div align="center"><img width="50%" src="https://raw.githubusercontent.com/tnt-exe/awards/main/FU/honorable-student-fall22.png"/></div></details> | FPT University | Fall 2022 |
